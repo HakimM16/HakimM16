@@ -143,7 +143,3 @@ ___
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/HakimM16/HakimM16/output/snake.svg" alt="Snake animation" />
