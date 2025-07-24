@@ -26,7 +26,7 @@
 
 - 🤖 Learning Machine Learning and Cloud Computing</p>
 
-Check out my [portfolio](https://hakim-portfolio-psi-liart.vercel.app)
+Check out my [coding portfolio](https://hakim-portfolio-psi-liart.vercel.app)!
 
 ###
 ---
