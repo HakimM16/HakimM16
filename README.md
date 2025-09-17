@@ -16,11 +16,7 @@
 
 ###
 
-- 💷 Simple Banking app with Next.js, Spring Boot and PostgreSQL</p>
-
-###
-
-- 🗺️ Cost of living comparison app with Flask and OpenAI</p>
+- 🏢 Job Matcher Suggester with CV extraction</p>
 
 ###
 
