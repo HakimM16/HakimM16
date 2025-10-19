@@ -16,10 +16,6 @@
 
 ###
 
-- 🏢 Job Matcher Suggester with CV extraction</p>
-
-###
-
 - 🤖 Learning Machine Learning and Cloud Computing</p>
 
 Check out my [coding portfolio](https://hakim-portfolio-psi-liart.vercel.app)!
