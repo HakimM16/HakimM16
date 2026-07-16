@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I am a second-year Computer Science student at Queen Mary University of London, passionate about exploring the fields of software engineering, artificial intelligence, and cloud computing.</p>
+<p align="left">I am a third-year Computer Science student at Queen Mary University of London, passionate about exploring the fields of software engineering, artificial intelligence, and cloud computing.</p>
 
 ---
 
